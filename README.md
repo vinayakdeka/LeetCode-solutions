@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
@@ -46,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
