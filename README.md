@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
