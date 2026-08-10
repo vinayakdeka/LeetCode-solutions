@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
@@ -213,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
