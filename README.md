@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
