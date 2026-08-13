@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
