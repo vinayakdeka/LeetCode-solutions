@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -290,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
