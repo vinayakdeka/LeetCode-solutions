@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1563-stone-game-v) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -372,5 +375,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
