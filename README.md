@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
