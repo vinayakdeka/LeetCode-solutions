@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
