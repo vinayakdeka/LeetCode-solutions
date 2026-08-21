@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3731-find-missing-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
 |  |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
