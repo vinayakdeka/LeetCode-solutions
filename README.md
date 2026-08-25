@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
@@ -419,5 +421,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
