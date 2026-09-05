@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
