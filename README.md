@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
