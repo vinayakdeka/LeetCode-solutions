@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0846-hand-of-straights) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -479,10 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bracket Sequences
 |  |
@@ -572,4 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
