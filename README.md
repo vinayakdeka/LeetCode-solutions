@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
