@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1140-stone-game-ii) |
@@ -605,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
