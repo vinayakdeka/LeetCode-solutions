@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1901-find-a-peak-element-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
