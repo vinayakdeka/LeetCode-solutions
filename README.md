@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
