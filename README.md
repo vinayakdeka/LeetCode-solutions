@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
 |  |
