@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0054-spiral-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
