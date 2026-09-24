@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1140-stone-game-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
 |  |
