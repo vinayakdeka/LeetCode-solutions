@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
