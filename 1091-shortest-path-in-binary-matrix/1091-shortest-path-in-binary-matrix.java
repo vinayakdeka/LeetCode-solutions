@@ -5,10 +5,10 @@ class Tuple {
     int second;
     int third;
 
-    Tuple(int _first, int _second, int _third) {
-        this.first = _first;
-        this.second = _second;
-        this.third = _third;
+    Tuple(int first, int second, int third) {
+        this.first = first;
+        this.second = second;
+        this.third = third;
     }
 }
 
