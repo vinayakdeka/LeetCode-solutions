@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
