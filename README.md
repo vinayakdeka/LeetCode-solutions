@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0877-stone-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0709-to-lower-case) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0856-score-of-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
