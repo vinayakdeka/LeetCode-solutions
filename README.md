@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0443-string-compression) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
