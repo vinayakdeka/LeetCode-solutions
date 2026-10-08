@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1406-stone-game-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1872-stone-game-viii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1872-stone-game-viii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
