@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0443-string-compression) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0547-number-of-provinces) |
