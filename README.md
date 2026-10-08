@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1328-break-a-palindrome](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2029-stone-game-ix) |
