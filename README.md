@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
