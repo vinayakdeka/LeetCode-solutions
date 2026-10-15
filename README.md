@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0204-count-primes) |
+| [0313-super-ugly-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
