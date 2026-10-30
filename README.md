@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -406,12 +408,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2029-stone-game-ix) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -923,4 +929,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinayakdeka/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
